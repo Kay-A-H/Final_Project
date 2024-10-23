@@ -5,5 +5,3 @@ format: html
 ---
 
 This is where I will work on my final project while I am still in the "idea" stage. I will use this QMD to test different functions, and if I like them then I will save them to a 'clean' version of this file that I will call Final_project.
-
-I'm adding more to this file.
